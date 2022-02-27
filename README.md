@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on a single "hello world" or hundreds of others!!
 - 📫 How to reach me ...
 
-paulo.rodrigo.silva@hotmail.com.br
-comuniketing.info@gmail.com
-+55 12 981899885
+<paulo.rodrigo.silva@hotmail.com.br>
+<comuniketing.info@gmail.com>
+<+55 12 981899885>
 
 <!---
 paulrdsi/paulrdsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
